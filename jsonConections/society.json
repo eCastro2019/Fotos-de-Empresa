@@ -1,21 +1,21 @@
 {
-    'id_society':       'SV001',
-    'category':         'Empresas',
-    'company':          'Soluciones Virtuales',
-    'address':          'Comayagua, Honduras - Mexico Jalisco',
-    'note':             'Hardware y Software'
+    "id_society":       "SV001",
+    "category":         "Empresas",
+    "company":          "Soluciones Virtuales",
+    "address":          "Comayagua, Honduras - Mexico Jalisco",
+    "note":             "Hardware y Software"
 },
 {
-    'id_society':       'SV002',
-    'category':         'Empresas',
-    'company':          'Pollo Rico',
-    'address':          'Comayagua, La Paz, Marcala y La Esperanza',
-    'note':             'Negocio de Comida'
+    "id_society":       "SV002",
+    "category":         "Empresas",
+    "company":          "Pollo Rico",
+    "address":          "Comayagua, La Paz, Marcala y La Esperanza",
+    "note":             "Negocio de Comida"
 },
 {
-    'id_society':       'SV003',
-    'category':         'Empresas',
-    'company':          'Tienda Discount',
-    'address':          'Comayagua y Siguatepeque',
-    'note':             'Tienda Americana'
+    "id_society":       "SV003",
+    "category":         "Empresas",
+    "company":          "Tienda Discount",
+    "address":          "Comayagua y Siguatepeque",
+    "note":             "Tienda Americana"
 }
